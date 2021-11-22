@@ -1,6 +1,6 @@
 classes_names = [
     {'id': 'DX6Gr37urTZVQ6fAJesX', 'word': 'acerola'},
-    {'id': 'QNyuvW5nA1bDsiugZ4Lp', 'word': 'Ackee'},
+    {'id': 'QNyuvW5nA1bDsiugZ4Lp', 'word': 'ackee'},
     {'id': 'wbya8P1qwq09dhUv5Viz', 'word': 'aloe vera'},
     {'id': 'NDzxAH03jFUfiXm9hbt4', 'word': 'ambarella'},
     {'id': 'XhnNCJgMTq4hO467BtA6', 'word': 'apple'},
@@ -27,7 +27,7 @@ classes_names = [
     {'id': 'VfH13Tj7roDSUYRwkras', 'word': 'chestnut'},
     {'id': 'B9hT6pa1m83q92Elzufn', 'word': 'chili'},
     {'id': '1Ye9gK9cUewWuhTZG6C3', 'word': 'coconut'},
-    {'id': 'rKvtyaPxFEW5Y1hfDnIb', 'word': 'coffee bean'},
+    {'id': 'DLRypNoQJGnXHsMrPuH6', 'word': 'coffee bean'},
     {'id': 'Pu1igBQFQLWcve1wOcEm', 'word': 'corn'},
     {'id': 'OReHCU0Cke0S4WLhztPf', 'word': 'courgette'},
     {'id': '16BYarBvmMO0WiHdoJzy', 'word': 'cucumber'},
