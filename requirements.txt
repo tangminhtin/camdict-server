@@ -97,7 +97,6 @@ scikit-image==0.18.3
 scikit-learn==0.24.2
 scipy==1.7.0
 selenium==3.141.0
-simple-image-download==0.4
 six==1.15.0
 sklearn==0.0
 sqlparse==0.4.1
