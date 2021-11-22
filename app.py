@@ -33,6 +33,9 @@ def load_image(filename, img_shape=224, scale=True):
     else:
         return img
 
+@app.route('/', methods=['GET'])
+def home(): 
+    return '<h1><center>Welcome to Camdict!</center></h1>'
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -61,5 +64,4 @@ def predict():
 
 port = int(os.environ.get('PORT', 8080))
 if __name__ == '__main__':
-    from waitress import serve
-    serve(app, host="0.0.0.0", port=port)
+    app.run(threaded=True, host='0.0.0.0', port=port)
