@@ -23,6 +23,7 @@ google-resumable-media==2.1.0
 googleapis-common-protos==1.53.0
 grpcio==1.42.0
 grpcio-status==1.42.0
+gunicorn==20.1.0
 h5py==3.6.0
 httplib2==0.20.2
 idna==3.3
@@ -58,6 +59,7 @@ termcolor==1.1.0
 typing_extensions==4.0.0
 uritemplate==4.1.1
 urllib3==1.26.7
+waitress==2.0.0
 Werkzeug==2.0.2
 wrapt==1.13.3
 zipp==3.6.0
