@@ -42,7 +42,7 @@ def predict():
     if 'file' not in request.files:
         return 'there is no file in form!'
     file = request.files['file']
-    image_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+    image_path = os.path.join(app.config['UPLOAD_FOLDER'], 'image.png')
     file.save(image_path)
 
     # Load and predict
